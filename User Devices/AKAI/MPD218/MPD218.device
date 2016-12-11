@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DeviceDefinition
+        vendor="AKAI"
+        name="MPD218"
+        classID="{6BDCD65F-A8E7-42ED-9A57-440A0B0418BB}"
+        category="Keyboard"
+        nativeCode="KeyboardDevice"
+        surfaceFile="MPD218.surface.xml"
+        textFile="MPD218.txt"
+        />

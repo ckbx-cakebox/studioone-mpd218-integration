@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DeviceDefinition
+        vendor="AKAI"
+        name="MPD218 (External Clock)"
+        classID="{D73EBC25-D63F-480A-A74A-D38653D11E79}"
+        category="Instrument"
+        nativeCode="InstrumentDevice"
+        textFile="MPD218 (External Clock).txt"
+        />

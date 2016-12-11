@@ -1,0 +1,1 @@
+It enables note repeat with external clock (host sync tempo) on MPD218. https://github.com/ckbx-cakebox/studioone-mpd218-integration

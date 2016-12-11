@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ControlSurface>
+	<Controls>
+		<Control name="controlb0003" title="A 1" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#3"/>
+		</Control>
+		<Control name="controlb0009" title="A 2" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#9"/>
+		</Control>
+		<Control name="controlb000c" title="A 3" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#C"/>
+		</Control>
+		<Control name="controlb000d" title="A 4" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#D"/>
+		</Control>
+		<Control name="controlb000e" title="A 5" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#E"/>
+		</Control>
+		<Control name="controlb000f" title="A 6" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#F"/>
+		</Control>
+		<Control name="controlb0010" title="B 1" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#10"/>
+		</Control>
+		<Control name="controlb0011" title="B 2" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#11"/>
+		</Control>
+		<Control name="controlb0012" title="B 3" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#12"/>
+		</Control>
+		<Control name="controlb0013" title="B 4" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#13"/>
+		</Control>
+		<Control name="controlb0014" title="B 5" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#14"/>
+		</Control>
+		<Control name="controlb0015" title="B 6" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#15"/>
+		</Control>
+		<Control name="controlb0016" title="C 1" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#16"/>
+		</Control>
+		<Control name="controlb0017" title="C 2" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#17"/>
+		</Control>
+		<Control name="controlb0018" title="C 3" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#18"/>
+		</Control>
+		<Control name="controlb0019" title="C 4" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#19"/>
+		</Control>
+		<Control name="controlb001a" title="C 5" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#1A"/>
+		</Control>
+		<Control name="controlb001b" title="C 6" type="knob" options="receive public">
+			<MidiMessage status="#B0" channel="0" address="#1B"/>
+		</Control>
+	</Controls>
+</ControlSurface>

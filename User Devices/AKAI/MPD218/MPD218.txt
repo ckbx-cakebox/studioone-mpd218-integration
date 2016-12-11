@@ -1,0 +1,1 @@
+Please select the factory preset on the MPD218. https://github.com/ckbx-cakebox/studioone-mpd218-integration
